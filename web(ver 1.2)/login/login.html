@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../img/titlee mark.png" />
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <form method="post" action="ucom_login after.html">
+        <h1>로그인</h1>
+        <div class="form_group">
+          <label for="id">아이디
+            <input type="text" id="id" name="id" required>
+          </label>
+        </div>
+        <div class="form_group">
+          <label for="pw">비밀번호
+            <input type="password" id="pw" name="pw" required>
+          </label>
+        </div>
+        <div class="menu">
+          <button type="submit" class="login">로그인</button>
+          <button type="button" class="signup" onclick="location.href='../account/account.html'">회원가입</button>
+        </div>
+        <div class="form_group">
+            <a href="">비밀번호 찾기</a>
+        </div>
+    </form>
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.get("signup") === "success") {
+        alert("회원가입이 완료되었습니다!");
+      }
+    </script>
+</body>
+</html>

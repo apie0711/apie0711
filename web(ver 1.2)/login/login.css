@@ -1,0 +1,47 @@
+body{
+    background-color:#f4fbfd;
+    margin: 0;
+    padding: 0;
+}
+form {
+    margin: 60px auto;
+    width: 24rem;
+  }
+  
+.form_group{
+    margin-bottom: 0.5rem;
+  }
+label{
+    display: block;
+  }
+
+input {
+    box-sizing: border-box;
+    padding: 0.5rem;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+button {
+    width: 100%;
+    padding: 0.5rem;
+    background: #3775d3;
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+  }
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+.login {
+    background: #3775d3;
+    flex: 2; /* 로그인 비율 크게 */
+}
+.signup {
+    background: #5a9bd5;
+    flex: 0.5; /* 회원가입 비율 작게 */
+}
+
+

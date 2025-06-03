@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color:  #f4fbfd;
+  }
+  
+  /* 상단바 */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+    background-color: #f4fbfd;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo {
+    background-image: url('../img/new_unicom.png');
+    width: 220px;
+    height: 40px;
+    background-size: 220px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10px;
+    text-indent: -9999px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  
+  /* 검색창 */
+  .search-form{
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+
+  #such {
+    width: 100%; 
+    max-width: 1200px; 
+    height: 40px;
+    padding: 0 400px 0 10px; 
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-sizing: border-box;
+  }
+  /*돋보기*/
+  .doc {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%); 
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: rgb(155, 218, 249);
+    font-size: 20px;
+  }
+  
+  /*마이페이지/장바구니*/
+  .icon {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .icon a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    font-size: 15px;
+  }
+  a:hover{
+   color: #6188aa; 
+  }
+  
+  .icon-menu i {
+    font-size: 20px;
+    margin-bottom: 3px;
+  }
+  
+  /* 카테고리 메뉴 */
+  nav{
+    display: flex;
+    justify-content: center;
+    background-color: #0358b3;
+    padding: 10px 0;
+    gap: 30px;
+  }
+  
+  nav a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px; /* 고정 높이 */
+    line-height: 30px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 0 10px;
+    transition: all 0.2s ease-in-out;
+  }
+  nav a:hover {
+    transform: translateY(-4px);
+    color: #a6d2ed;
+  }
+  
+  #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #9c9da0;
+    color: white;
+    text-align: center;
+    padding: 0;
+    z-index: 100;
+  }
+  .swiper {
+    width: 100%;
+    height: 155px;
+    color: white;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  h1{
+    text-align: center;
+  }
+ 
+ 

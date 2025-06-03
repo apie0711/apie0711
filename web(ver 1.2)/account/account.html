@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>회원가입</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../img/titlee mark.png" />
+    <link rel="stylesheet" href="account.css">
+</head>
+<body>
+    <form method="post" action="../login/login.html?signup=success">
+        <h1>회원가입</h1>
+        <div class="form_group">
+          <label for="id">아이디
+            <input type="text" id="id" name="id" required>
+          </label>
+        </div>
+        <div class="form_group">
+          <label for="pw">비밀번호
+            <input type="password" id="pw" name="pw" required>
+          </label>
+        </div>
+        <div class="form_group">
+            <label for="email">이메일
+                <input type="email" id="email" name="email"required>
+            </label>
+        </div>
+        <div class="menu">
+          <button type="submit" class="login">회원가입</button>
+        </div>
+        <div class="bottom-links">
+          <a href="../ucomMAIN.html">취소</a>
+          <a href="../login/login.html">로그인</a>
+        </div>
+        
+    </form>
+</body>
+</html>
