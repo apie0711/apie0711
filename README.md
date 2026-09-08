@@ -1,29 +1,47 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=APIE0711&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=From%20Code%20to%20Circuits&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:16222a,75:1f6f78,100:00c9a7&height=240&section=header&text=APIE0711&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Code%20%E2%86%92%20System%20%E2%86%92%20Hardware&descAlignY=57&descSize=19&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/apie0711">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Computer+Software+Engineering+Student;C+%2F+C%2B%2B+%7C+Backend+%7C+Linux+%7C+Embedded;%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%B6%80%ED%84%B0+%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EA%B9%8C%EC%A7%80%2C+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EB%A9%B0+%EB%B0%B0%EC%9B%8C%EB%B4%85%EB%8B%88%EB%8B%A4;mmWave+Radar+%2B+Vision+Fusion%EC%97%90+%EB%B9%A0%EC%A0%B8+%EC%9E%88%EC%96%B4%EC%9A%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=00C9A7&center=true&vCenter=true&width=760&height=55&lines=Building+things+from+code+to+circuits.;C+%2F+C%2B%2B+%7C+Java+%7C+Python+%7C+Linux+%7C+Embedded;Backend%2C+Robotics%2C+Vision+and+Hardware.;Keep+building.+Keep+learning." alt="Typing SVG"/>
 </a>
 
 <br>
 
-<img src="https://img.shields.io/badge/동양미래대학교-Computer%20Software%20Engineering-0f2027?style=for-the-badge&labelColor=2c5364"/>
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-00c9a7?style=for-the-badge&labelColor=2c5364"/>
-
-<p>
-<a href="https://github.com/apie0711?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://solved.ac/apie0711"><img src="https://img.shields.io/badge/Solved.ac-3399FF?style=flat-square&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.acmicpc.net/user/apie0711"><img src="https://img.shields.io/badge/Baekjoon-0068C9?style=flat-square"/></a>
-</p>
-
-</div>
+<img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Low--Level%20%26%20Algorithms-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20%2F%20Python-Backend%20%26%20Control-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00c9a7" width="100%"/>
+<img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=flat-square&logo=linux&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Jetson%20Nano-Embedded-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-Hardware-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/mmWave%20%2B%20Vision-Fusion-00C9A7?style=flat-square"/>
 
-## 🧭 &nbsp;About Me
+<br><br>
+
+<a href="https://github.com/apie0711?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://solved.ac/apie0711">
+  <img src="https://img.shields.io/badge/Solved.ac-Problem%20Solving-3399FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub><b>Software that touches real hardware.</b></sub>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE%20THEME-Dark%20Teal%20%7C%20Code%20to%20Hardware-00c9a7?style=flat-square&labelColor=0d1117"/>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d1117,50:1f6f78,100:00c9a7" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=74&color=0:0d1117,55:16313a,100:00c9a7&text=ABOUT%20ME&fontSize=26&fontColor=ffffff&fontAlignY=52" width="100%"/>
 
 <table>
 <tr>
@@ -61,9 +79,9 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00c9a7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d1117,50:1f6f78,100:00c9a7" width="100%"/>
 
-## 🛠️ &nbsp;On My Workbench
+<img src="https://capsule-render.vercel.app/api?type=rect&height=74&color=0:0d1117,55:16313a,100:00c9a7&text=ON%20MY%20WORKBENCH&fontSize=26&fontColor=ffffff&fontAlignY=52" width="100%"/>
 
 <table>
 <tr>
@@ -130,9 +148,9 @@ PC 하드웨어를 주제로 만든 웹 프로젝트. 상품 카테고리, 검�
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00c9a7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d1117,50:1f6f78,100:00c9a7" width="100%"/>
 
-## 🧰 &nbsp;Learning & Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&height=74&color=0:0d1117,55:16313a,100:00c9a7&text=LEARNING%20%26%20TOOLS&fontSize=26&fontColor=ffffff&fontAlignY=52" width="100%"/>
 
 <div align="center">
 
@@ -151,9 +169,9 @@ PC 하드웨어를 주제로 만든 웹 프로젝트. 상품 카테고리, 검�
 | **Design & Fabrication** | `OpenSCAD` `3D Printing` |
 | **Tools** | `Git` `GitHub` `VS Code` `Eclipse` |
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00c9a7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d1117,50:1f6f78,100:00c9a7" width="100%"/>
 
-## 📊 &nbsp;GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&height=74&color=0:0d1117,55:16313a,100:00c9a7&text=GITHUB%20STATS&fontSize=26&fontColor=ffffff&fontAlignY=52" width="100%"/>
 
 <div align="center">
 
@@ -171,9 +189,9 @@ PC 하드웨어를 주제로 만든 웹 프로젝트. 상품 카테고리, 검�
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00c9a7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d1117,50:1f6f78,100:00c9a7" width="100%"/>
 
-## 🧩 &nbsp;Problem Solving
+<img src="https://capsule-render.vercel.app/api?type=rect&height=74&color=0:0d1117,55:16313a,100:00c9a7&text=PROBLEM%20SOLVING&fontSize=26&fontColor=ffffff&fontAlignY=52" width="100%"/>
 
 작은 문제부터 꾸준히. 풀이가 동작하는 이유까지 이해하는 것을 목표로 공부해요.
 
@@ -185,9 +203,9 @@ PC 하드웨어를 주제로 만든 웹 프로젝트. 상품 카테고리, 검�
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00c9a7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d1117,50:1f6f78,100:00c9a7" width="100%"/>
 
-## 🌱 &nbsp;Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&height=74&color=0:0d1117,55:16313a,100:00c9a7&text=CONTRIBUTION%20SNAKE&fontSize=26&fontColor=ffffff&fontAlignY=52" width="100%"/>
 
 <div align="center">
 
