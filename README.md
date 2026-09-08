@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=APIE0711&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=From%20Code%20to%20Circuits&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/apie0711">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Computer+Software+Engineering+Student;C+%2F+C%2B%2B+%7C+Backend+%7C+Linux+%7C+Embedded;%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%B6%80%ED%84%B0+%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EA%B9%8C%EC%A7%80%2C+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EB%A9%B0+%EB%B0%B0%EC%9B%B9%EB%8B%88%EB%8B%A4;mmWave+Radar+%2B+Vision+Fusion%EC%97%90+%EB%B9%A0%EC%A0%B8+%EC%9E%88%EC%96%B4%EC%9A%94" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Computer+Software+Engineering+Student;C+%2F+C%2B%2B+%7C+Backend+%7C+Linux+%7C+Embedded;%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%B6%80%ED%84%B0+%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EA%B9%8C%EC%A7%80%2C+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EB%A9%B0+%EB%B0%B0%EC%9B%8C%EB%B4%85%EB%8B%88%EB%8B%A4;mmWave+Radar+%2B+Vision+Fusion%EC%97%90+%EB%B9%A0%EC%A0%B8+%EC%9E%88%EC%96%B4%EC%9A%94" alt="Typing SVG" />
 </a>
 
 <br>
@@ -29,7 +29,7 @@
 <tr>
 <td width="60%" valign="top">
 
-안녕하세요, **apie0711**입니다.
+안녕하세요, **apie0711**입니다.  
 코드가 실제로 어떻게 동작하는지 궁금해서, 소프트웨어와 하드웨어를 가리지 않고 직접 만들어보며 배우고 있어요.
 
 - 🧠 **C / C++**로 메모리와 자료구조를 배우고, 알고리즘 문제를 풀어요.
@@ -40,7 +40,7 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-```
+```text
    ┌───────────────┐
    │  C/C++ · Java │
    │  Python · JS  │
@@ -86,6 +86,7 @@
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 <h3>⚙️ Backend</h3>
@@ -106,6 +107,7 @@ Java · Spring Boot 기반 백엔드 저장소. 인증, 사용자, 친구, 캐�
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 <h3>🌐 Web</h3>
@@ -155,11 +157,17 @@ PC 하드웨어를 주제로 만든 웹 프로젝트. 상품 카테고리, 검�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=apie0711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apie0711&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apie0711&theme=github_dark" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apie0711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=apie0711&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" height="165"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apie0711&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apie0711&theme=github_dark" width="49%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apie0711&theme=github_dark&utcOffset=9" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apie0711&theme=github_dark" width="49%"/>
 
 </div>
 
@@ -179,17 +187,19 @@ PC 하드웨어를 주제로 만든 웹 프로젝트. 상품 카테고리, 검�
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00c9a7" width="100%"/>
 
+## 🌱 &nbsp;Contribution Snake
+
 <div align="center">
 
-### 🌱 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/apie0711/apie0711/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>※ 위 스네이크 애니메이션은 저장소에 GitHub Actions 워크플로우를 한 번 추가해야 표시돼요. 아래 안내 참고!</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apie0711/apie0711/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apie0711/apie0711/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apie0711/apie0711/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=150&section=footer" width="100%"/>
 
 **Keep building. Keep learning.** — apie0711
 
