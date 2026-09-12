@@ -63,12 +63,12 @@
    │  C/C++ · Java │
    │  Python · JS  │
    └───────┬───────┘
-           │
+│
    ┌───────▼───────┐
    │ Linux · Jetson│
    │ Arduino · IoT │
    └───────┬───────┘
-           │
+│
    ┌───────▼───────┐
    │ Radar + Vision│
    │  Fusion · AI  │
